@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{365015F9-2209-4961-8492-B6592FDA826D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Parking/Program.cs">
+    <Files>
+      <File FileName="Parking/Program.cs" Line="43" Column="1" />
+      <File FileName="Parking/Models/ParkingStore.cs" />
+      <File FileName="Parking/Models/Car.cs" />
+      <File FileName="Parking/EventArguments/OutOfParkingArgs.cs" />
+      <File FileName="Parking/Models/Vehicle.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParkingModel" expanded="True">
+            <Node name="Parking" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Delegates" expanded="True" />
+              <Node name="EventArguments" expanded="True" />
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Parking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
