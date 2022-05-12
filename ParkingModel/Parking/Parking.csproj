@@ -22,5 +22,8 @@
     <Reference Include="Helper">
       <HintPath>..\..\..\05. vsCloneGit\LessonPractic\ConsolePrograms\Helper\bin\Debug\netcoreapp3.1\Helper.dll</HintPath>
     </Reference>
+    <Reference Include="Helper">
+      <HintPath>library\Helper.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

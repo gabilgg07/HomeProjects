@@ -14,3 +14,18 @@
 /Volumes/MySSD/01. Codes/01. VS/06. OtherProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.dll
 /Volumes/MySSD/01. Codes/01. VS/06. OtherProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.pdb
 /Volumes/MySSD/01. Codes/01. VS/06. OtherProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.genruntimeconfig.cache
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/bin/Debug/netcoreapp3.1/Parking.deps.json
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/bin/Debug/netcoreapp3.1/Parking.runtimeconfig.json
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/bin/Debug/netcoreapp3.1/Parking.runtimeconfig.dev.json
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/bin/Debug/netcoreapp3.1/Parking.dll
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/bin/Debug/netcoreapp3.1/Parking.pdb
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.AssemblyInfo.cs
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.csproj.CopyComplete
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.dll
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.pdb
+/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/Debug/netcoreapp3.1/Parking.genruntimeconfig.cache

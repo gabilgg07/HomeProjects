@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/MySSD/01. Codes/01. VS/06. OtherProjects/ParkingModel/Parking/Parking.csproj",
+      "projectUniqueName": "/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/Parking.csproj",
       "projectName": "Parking",
-      "projectPath": "/Volumes/MySSD/01. Codes/01. VS/06. OtherProjects/ParkingModel/Parking/Parking.csproj",
+      "projectPath": "/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/Parking.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Volumes/MySSD/01. Codes/01. VS/06. OtherProjects/ParkingModel/Parking/obj/",
+      "outputPath": "/Users/macbook/Desktop/Practice/vs/HWs/HomeProjects/ParkingModel/Parking/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.config/NuGet/NuGet.Config"
