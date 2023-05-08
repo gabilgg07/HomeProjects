@@ -3,6 +3,7 @@ using System.Text;
 using Helper;
 using Parking.Delegates;
 using Parking.EventArguments;
+using Parking.library;
 
 namespace Parking.Models
 {
@@ -128,7 +129,16 @@ namespace Parking.Models
         public override string ToString()
         {
             StringBuilder str = new StringBuilder();
-            ConsoleHelper.Header($"{this.Name} Otoparkı",'~', color: ConsoleColor.DarkGreen, headeColor: ConsoleColor.Blue);
+
+            if (ConsoleHeader.BlackValue() == 0)
+            {
+                ConsoleHeader.Header($"{this.Name} Otoparkı", '~', color: ConsoleColor.DarkGreen, headeColor: ConsoleColor.Blue);
+            }
+            else
+            {
+                ConsoleHelper.Header($"{this.Name} Otoparkı", '~', color: ConsoleColor.DarkGreen, headeColor: ConsoleColor.Blue);
+            }
+
             str.Append($"\nCapacity: {this.Capacity}\n" +
                 $"Occupancy: {this.Occupancy}\n" +
                 $"Spots: {this.Spots}\n\n");

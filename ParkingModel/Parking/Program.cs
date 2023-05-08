@@ -1,5 +1,6 @@
 ﻿using System;
 using Helper;
+using Parking.library;
 using Parking.Models;
 
 namespace Parking
@@ -10,7 +11,14 @@ namespace Parking
         {
             ConsoleHelper.SetDefaults();
 
-            ConsoleHelper.Header("Parking App", '*', color: ConsoleColor.DarkGray, headeColor: ConsoleColor.DarkYellow);
+            if (ConsoleHeader.BlackValue() == 0)
+            {
+                ConsoleHeader.Header("Parking App", '*', color: ConsoleColor.DarkGray, headeColor: ConsoleColor.DarkYellow);
+            }
+            else
+            {
+                ConsoleHelper.Header("Parking App", '*', color: ConsoleColor.DarkGray, headeColor: ConsoleColor.DarkYellow);
+            }
 
             ParkingStore<Car> parkingStore = new ParkingStore<Car>(5, "28 May");
             parkingStore.OnCapacityOverflow += ParkingStore_OnCapacityOverflow;
@@ -34,10 +42,18 @@ namespace Parking
 
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine(new string('`', Console.WindowWidth));
-            Console.ForegroundColor = (ConsoleColor)(-1);
+            if (ConsoleHeader.BlackValue() == 0)
+            {
+                Console.ForegroundColor = (ConsoleColor)(15);
+            }
+            else
+            {
+                Console.ForegroundColor = (ConsoleColor)(-1);
+            }
+
             Console.WriteLine();
 
-            Car car = new Car("Testa", "66-ff-333");
+            Car car = new Car("Tesla", "66-ff-333");
 
             parkingStore.Out(car);
 
